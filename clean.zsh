@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 current_user=$(whoami)
 cat /home/$current_user/.zsh_history >> /home/$current_user/.zsh_history.cleaner
 rm /home/$current_user/.zsh_history
