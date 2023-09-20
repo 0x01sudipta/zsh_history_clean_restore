@@ -2,11 +2,11 @@
 These script will help you to hide your command history and restore those when needed.
 
 # Usage
-Clone Repository
+# Clone Repository
     $ git clone https://github.com/0x01sudipta/zsh_history_clean_restore.git
-Change Directory
+# Change Directory
     $ cd zsh-history-cleaner
-Clean History
+# Clean History
     $ ./clean.zsh
-Restore History
+# Restore History
     $ ./restore.zsh
