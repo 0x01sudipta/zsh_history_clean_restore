@@ -1,5 +1,5 @@
 # zsh_history_clean_restore
-These script will help you to hide your command history and restore those when needed.
+This script is to help you hide and restore your command history when needed.
 
 # Usage
 # Clone Repository
